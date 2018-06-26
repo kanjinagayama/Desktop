@@ -1,0 +1,19 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+
+[INVALID]
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\npAdobeAAMDetect32.dll|$
+1421974696000|$
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\npAdobeAAMDetect64.dll|$
+1421974696000|$
+C:\PROGRA~1\MICROS~1\Office15\NPSPWRAP.DLL|$
+1390431982000|$
+c:\Program Files\Microsoft Silverlight\5.1.50907.0\npctrl.dll|$
+1493820122000|$
+c:\Program Files\Microsoft Silverlight\5.1.50907.0\npctrlui.dll|$
+1493820122000|$
